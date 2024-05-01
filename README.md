@@ -10,13 +10,13 @@
   <img src="https://komarev.com/ghpvc/?username=tomerasulin&style=flat-square&color=blue" alt=""/>
 </div>
 <h1 align="center">
-  Hey all
+  Howdy
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
  
 ---
 ### :man_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
+Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20">
 
 - :seedling: I am currently building new web applications.
 
@@ -43,5 +43,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="VueJS" **alt="vuejs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" **alt="angular" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" title="NestJs" **alt="nestjs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plaing.svg" title="Python" **alt="python" width="40" height="40"/>
 </div>
 
